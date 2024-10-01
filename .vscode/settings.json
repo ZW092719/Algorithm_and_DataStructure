@@ -1,0 +1,29 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 20,
+    "code-runner.runInTerminal": true,
+    "files.encoding": "gbk",
+    "files.autoGuessEncoding": true,
+    "terminal.integrated.fontSize": 17,
+    "files.exclude": {
+        "**/*.exe": true
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "editor.tabSize"
+    ],
+    "C_Cpp.default.cppStandard": "c++23",
+    "remote.SSH.remotePlatform": {
+        "region-45.autodl.pro": "linux"
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "workbench.colorTheme": "Visual Studio 2017 Light - C++",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.intelliSenseEngine":"default",
+"editor.suggest.snippetsPreventQuickSuggestions": true,
+"files.associations": {
+    "iostream": "cpp",
+    "new": "cpp"
+},
+
+
+}
